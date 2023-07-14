@@ -1,0 +1,27 @@
+.SearchButton{
+position: fixed;
+flex: content;
+inset: 40%;
+justify-content: center;
+}
+
+
+@media (max-width:1000px) {
+.input{
+flex-direction: column;
+align-items: center;
+
+    }
+    .input button{
+        margin-block:1rem;
+    }
+    } 
+
+    @media (max-width:400px){
+.input{
+    width: 85%;
+}
+    }
+
+
+

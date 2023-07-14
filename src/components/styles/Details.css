@@ -1,0 +1,12 @@
+.details{
+    width: 100%;
+    min-height: 100vh;
+        background-color: lightgray, url(../../assets/Bottlegalaxy.jpg);
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: center;
+        color: black;
+        padding-inline: 4em;
+        
+}
